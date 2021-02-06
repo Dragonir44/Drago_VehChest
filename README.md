@@ -11,4 +11,5 @@ This resources is a vehicle trunk menu for FiveM
 All is in the config.lua
 
 ## TODO
-- Add account and weapon storage inside chest (WIP)
+- Add language support
+- Give me some suggestion
